@@ -17,8 +17,8 @@ To develop a java program use append() method concatenates the given argument wi
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: Allen Johnston Ozario W
-RegisterNumber: 212224110004 
+Developed by: AISHWARYA V
+RegisterNumber: 212223220003 
 */
 ```
 
